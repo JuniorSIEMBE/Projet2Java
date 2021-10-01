@@ -31,3 +31,4 @@ In this practical work, let's not try to highlight the notions of inheritance as
 </p>
 <p>After running, you are suppose to get this result:</p>
 <img src="result.png"></img>
+<b>Thank you and good luck!</b>
