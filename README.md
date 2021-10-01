@@ -11,9 +11,7 @@ In this practical work, let's not try to highlight the notions of inheritance as
 </ul>
 </b>
 <p>To dowload this project, we have to open your git bash command prompt and enter this command:</p>
-<code>
-<p>git clone https://github.com/JuniorSIEMBE/Projet2Java.git</p>
-</code>
+<p><code>git clone https://github.com/JuniorSIEMBE/Projet2Java.git</code></p>
 <p>To run the code you have two options:
 <ol>
     <li>Use an EDI like Eclipse, IntellIJ and so one and run this code</li>
