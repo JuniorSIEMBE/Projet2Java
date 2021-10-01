@@ -1,0 +1,1 @@
+<h1>Second Java's project to explain Inheritance</h1>
