@@ -22,7 +22,7 @@ public class Carre extends Rectangle{
     }
 
     public void affiche(){
-        System.out.println("Carré : "+super.getLargeur());
+        System.out.println("Carr\u00E9 : "+super.getLargeur());
     }
     
 }
