@@ -5,11 +5,11 @@ import cm.ime.projet.api.Cercle;
 import cm.ime.projet.api.Forme;
 import cm.ime.projet.api.Rectangle;
 
-public class TestForme {
-
-    static Forme rect, carr, cerc;
+public class TestForme { 
 
     public static void main(String[] args){
+
+        Forme rect, carr, cerc;
 
         //Instanciation du rectangle
         rect= new Rectangle(15,10);
@@ -29,9 +29,9 @@ public class TestForme {
         System.out.println("--------------------------------------");
 
         //Calcul des périmètres
-        System.out.println("Affichage des périmètres");
+        System.out.println("Affichage des p\u00E9rim\u00E8tres");
         System.out.println("Rectange: "+rect.perimetre());
-        System.out.println("Carré: "+carr.perimetre());
+        System.out.println("Carr\u00E9: "+carr.perimetre());
         System.out.println("Cercle: "+cerc.perimetre());
 
         System.out.println("--------------------------------------");
@@ -39,7 +39,7 @@ public class TestForme {
         //calcul des surfaces
         System.out.println("Affichage des surfaces");
         System.out.println("Rectange: "+rect.surface());
-        System.out.println("Carré: "+carr.surface());
+        System.out.println("Carr\u00E9: "+carr.surface());
         System.out.println("Cercle: "+cerc.surface());
     }
 }
